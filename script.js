@@ -25,7 +25,7 @@ arr.forEach(button => {
             input.value = string;
         }
     })
-});
+}); 
 
 
 function calculate(expression) {
